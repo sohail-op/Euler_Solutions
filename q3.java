@@ -14,7 +14,6 @@ public class q3
  {
 		long num=600851475143l;
 		int primenumber=2;
-		boolean flag=true;
 		long max=Long.MIN_VALUE;
 		while(num>1) 
     {
